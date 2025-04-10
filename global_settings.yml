@@ -2,4 +2,4 @@ object_type: global_settings
 overrides:
     "aggregate.snowflake.table.names.uppercase": true
     "query.drillthrough.max_rows": 2000
-    "tableau.rawSqlAggs.enabled": TRUE
+    "tableau.rawSqlAggs.enabled": true
