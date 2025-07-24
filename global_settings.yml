@@ -2,5 +2,6 @@ object_type: global_settings
 overrides:
     "aggregate.snowflake.table.names.uppercase": true
     "query.drillthrough.max_rows": 2000
-    "xmla.auth.token.enabled": false
+    "xmla.auth.token.enabled": true
     "xmla.discover.properties.daxdialect": tabular
+    "AGGREGATE.CREATE.JOINS.ALLOWPREVENTINCREMENTAL.ENABLED": true
