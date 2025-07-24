@@ -4,4 +4,4 @@ overrides:
     "query.drillthrough.max_rows": 2000
     "xmla.auth.token.enabled": true
     "xmla.discover.properties.daxdialect": tabular
-    "aggregate.create.joins.allowpreventincremental.enabled": true
+    "aggregate.create.joins.allowPreventIncremental.enabled": true
