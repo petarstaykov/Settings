@@ -5,3 +5,4 @@ overrides:
     "xmla.auth.token.enabled": true
     "xmla.discover.properties.daxdialect": tabular
     "aggregate.create.joins.allowPreventIncremental.enabled": true
+    "xmla.cube.lastDataUpdate.enabled": true
