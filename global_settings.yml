@@ -3,6 +3,5 @@ overrides:
     "aggregate.snowflake.table.names.uppercase": true
     "query.drillthrough.max_rows": 3000
     "xmla.auth.token.enabled": true
-    "xmla.discover.properties.daxdialect": tabular
+    "xmla.discover.properties.daxdialect": tabular1600
     "aggregate.create.joins.allowPreventIncremental.enabled": true
-    "xmla.cube.lastDataUpdate.enabled": true
