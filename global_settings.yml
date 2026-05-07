@@ -5,5 +5,5 @@ overrides:
     "xmla.auth.token.enabled": true
     "xmla.discover.properties.daxdialect": tabular1600
     "aggregate.create.joins.allowPreventIncremental.enabled": true
-    "tableau.pgwire.client.protocol": atscale_pgwire
-    "tableau.connector.type": atscale_pgwire
+    "tableau.pgwire.client.protocol": postgres
+    "tableau.connector.type": postgres
