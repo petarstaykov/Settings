@@ -7,4 +7,4 @@ overrides:
     "aggregate.create.joins.allowPreventIncremental.enabled": true
     "tableau.pgwire.client.protocol": atscale_pgwire
     "tableau.connector.type": atscale_pgwire
-    "tableau.pgwire.authentication": password
+    "tableau.pgwire.authentication": username_password
