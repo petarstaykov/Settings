@@ -10,3 +10,4 @@ overrides:
     "tableau.pgwire.authentication": username_password
     sml.environment.variables:
         SCHEMA=tpcds
+        DATABESE=Petar
