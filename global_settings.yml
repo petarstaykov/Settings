@@ -1,13 +1,8 @@
 object_type: global_settings
 overrides:
-    #"aggregate.snowflake.table.names.uppercase": true
-    #"query.drillthrough.max_rows": 3000
     "xmla.auth.token.enabled": true
     "xmla.discover.properties.daxdialect": tabular
-    #"aggregate.create.joins.allowPreventIncremental.enabled": true
-    #"tableau.pgwire.client.protocol": atscale_pgwire
-    #"tableau.connector.type": atscale_pgwire
-    #"tableau.pgwire.authentication": username_password
-    #sml.environment.variables:
-        SCHEMA=tpcds
-        DATABESE=Petar
+#"aggregate.create.joins.allowPreventIncremental.enabled": true
+#"tableau.pgwire.client.protocol": atscale_pgwire
+#"tableau.connector.type": atscale_pgwire
+#"tableau.pgwire.authentication": username_password
